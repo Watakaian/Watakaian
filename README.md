@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ian M. Wataka
 
 ### A passionate developer from Kenya
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=watakaian&" alt="watakaian" /></p>
 
 - 🔭 I'm currently working on **A 3D printed Robotic Microscope based on openflexure, customized for our purposes . This is done together with the MMUST Robotics Champions**
 
@@ -34,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=watakaian&show_icons=true&locale=en&layout=compact" alt="watakaian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=watakaian&show_icons=true&locale=en" alt="watakaian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=watakaian&" alt="watakaian" /></p>
